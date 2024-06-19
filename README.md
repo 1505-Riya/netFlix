@@ -1,4 +1,4 @@
-# Amazon Prime Power BI Dashboard
+# Netflix Power BI Dashboard
 ![Dashboard Screenshot](https://github.com/1505-Riya/netFlix/blob/master/dashboard.png)
 
 
@@ -8,7 +8,7 @@ This repository contains a Power BI dashboard that provides insights into NETFLI
 The dashboard includes various visualizations to help understand trends, performance metrics, and other key aspects of Amazon Prime.
 
 ## Data Sources
-Dataset : https://www.kaggle.com/datasets/shivamb/netflix-shows
+Dataset: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## Setup
 
